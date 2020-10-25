@@ -1,0 +1,10 @@
+body {
+    
+	background: url(../imatges/fondos/vintage.jpg) ;
+  }
+  h1 {
+     text-align:"center"; 
+  }
+  p {
+    color: red;
+  }

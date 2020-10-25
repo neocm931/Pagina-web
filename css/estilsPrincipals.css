@@ -1,0 +1,22 @@
+body {
+    
+	background: url(../imatges/fondos/books.jpg) ;
+  }
+  h1 {
+     text-align:"center"; 
+  }
+  p {
+    color: red;
+  }
+
+  #navi {
+	list-style-type:square;
+}
+
+#navi {
+	list-style-type:circle;
+}
+
+#navi {
+	list-style-image:url(images/vineta.png);
+}
